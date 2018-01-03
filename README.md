@@ -14,7 +14,7 @@ A Ferramenta Scannh Heros foi feita com o intuito de automatizar e agilizar o se
 
 $ git clone https://github.com/GabrielSantosLK/Scannh-Heros
 
-$ cd cd Scannh-Heros
+$ cd Scannh-Heros
 
 $ python3 Scannh-Heros.py
 
